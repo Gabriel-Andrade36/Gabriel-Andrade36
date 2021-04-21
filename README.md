@@ -1,6 +1,12 @@
 My name is <a href="https://www.linkedin.com/in/gabriel-andrade-corrêa-b5463918a/" style=text-decoration:none>Gabriel</a>, and I'm currently a student of analysis and systems development!
 
 
+<div style=display inline-block>
+
+<img src="https://github.com/Gabriel-Andrade36/Gabriel-Andrade36/blob/main/cat.gif" alt="cat coding" height="400" width="400" align="center" >
+
+<img src="https://github.com/Gabriel-Andrade36/Gabriel-Andrade36/blob/main/computer.gif" alt="computer dancing" height="400" width="400" align="center">
+</div>
 <hr>
 
 - Working as an help-desk intern at <a href ="https://www.linkedin.com/company/well-internet" style=text-decoration:none>Well Internet</a>
