@@ -1,4 +1,7 @@
-My name is <a href="https://www.linkedin.com/in/gabriel-andrade-corrêa-b5463918a/" style=text-decoration:none>Gabriel</a>, and I'm currently a student of analysis and systems development!
+<h1>Hello visitor! 👀</h1>
+<hr>
+
+<h2>My name is <a href="https://www.linkedin.com/in/gabriel-andrade-corrêa-b5463918a/" style=text-decoration:none>Gabriel</a>, and I'm currently a student of analysis and systems development!</h2>
 
 
 <div style=display inline-block>
@@ -10,6 +13,7 @@ My name is <a href="https://www.linkedin.com/in/gabriel-andrade-corrêa-b5463918
 <hr>
 
 - Working as an help-desk intern at <a href ="https://www.linkedin.com/company/well-internet" style=text-decoration:none>Well Internet</a>
+
 - At the moment I have some knowledge with and studying:
   - HTML/CSS
   - TypeScript/JavaScript
