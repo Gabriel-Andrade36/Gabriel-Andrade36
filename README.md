@@ -1,5 +1,4 @@
 <h1>Hello visitor! 👀</h1>
-<hr>
 
 <h2>My name is <a href="https://www.linkedin.com/in/gabriel-andrade-corrêa-b5463918a/" style=text-decoration:none>Gabriel</a>, and I'm currently a student of analysis and systems development!</h2>
 
