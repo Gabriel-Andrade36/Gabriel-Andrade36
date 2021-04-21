@@ -6,9 +6,9 @@
 
 <div style=display inline-block>
 
-<img src="https://github.com/Gabriel-Andrade36/Gabriel-Andrade36/blob/main/cat.gif" alt="cat coding" height="400" width="400" align="center" >
+<img src="https://github.com/Gabriel-Andrade36/Gabriel-Andrade36/blob/main/cat.gif" alt="cat coding" height="420" width="420" align="center" >
 
-<img src="https://github.com/Gabriel-Andrade36/Gabriel-Andrade36/blob/main/computer.gif" alt="computer dancing" height="400" width="400" align="center">
+<img src="https://github.com/Gabriel-Andrade36/Gabriel-Andrade36/blob/main/computer.gif" alt="computer dancing" height="420" width="420" align="center">
 </div>
 <hr>
 
