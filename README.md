@@ -13,7 +13,7 @@
 
 - Working as an help-desk intern at <a href ="https://www.linkedin.com/company/well-internet" style=text-decoration:none>Well Internet</a>
 
-- At the moment I have some knowledge with and studying:
+- At the moment I have some knowledge with and/or I'm studying:
   - HTML/CSS
   - TypeScript/JavaScript
   - Angular
