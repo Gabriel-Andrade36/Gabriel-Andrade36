@@ -14,12 +14,12 @@
 - Working as an help-desk intern at <a href ="https://www.linkedin.com/company/well-internet" style=text-decoration:none>Well Internet</a>
 
 - At the moment I have some knowledge with and/or I'm studying:
-  - HTML/CSS
-  - TypeScript/JavaScript
-  - Angular
-  - Java/POO
-  - Git and Github  😆
-  - Project management/agile methodology
+  - <abbr title="Currently studying at 'Curso em vídeo' online course"> HTML/CSS </abrr>
+  - <abrr title="Studying by myself, and soon I'll take a course about it"> TypeScript/JavaScript </abrr>
+  - <abrr title="Currently learning while I'm doing my portfolio">Angular</abrr>
+  - <abrr title="Currently studying at 'Curso em vídeo' online course and at college">Java/POO</abbr>
+  - <abrr title="I did an introductory online course at 'Digital Inovvation One' and I keep  practicing and learning by myself">Git and Github</abbr>  😆
+  - <abrr title="I did a online course about it at Unieducar and I have contact with scrum and kanban at my job">Project management/agile methodology
 
 
 Now I'm focusing on learn about web development!
