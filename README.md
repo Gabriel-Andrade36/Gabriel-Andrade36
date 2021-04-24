@@ -1,6 +1,6 @@
 <h1>Hello visitor! 👀</h1>
 
-<h2>My name is <a href="https://www.linkedin.com/in/gabriel-andrade-corrêa-b5463918a/" style=text-decoration:none>Gabriel</a>, and I'm currently a student of analysis and systems development!</h2>
+<h2>My name is <a href="https://www.linkedin.com/in/gabriel-andrade-corrêa-b5463918a/" target="_blank" rel="external" style=text-decoration:none>Gabriel</a>, and I'm currently a student of analysis and systems development!</h2>
 
 
 <div style=display inline-block>
@@ -11,7 +11,7 @@
 </div>
 <hr>
 
-- Working as an help-desk intern at <a href ="https://www.linkedin.com/company/well-internet" style=text-decoration:none>Well Internet</a>
+- Working as an help-desk intern at <a href ="https://www.linkedin.com/company/well-internet" target="_blank" rel="external" style=text-decoration:none>Well Internet</a>
 
 - At the moment I have some knowledge with and/or I'm studying:
   - <abbr title="Currently studying at 'Curso em vídeo' online course"> HTML/CSS </abrr>
