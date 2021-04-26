@@ -26,8 +26,8 @@ Now I'm focusing on learn about web development!
 <hr>
 
 <div style=display inline-block>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Andrade36&layout=compact&theme=highcontrast" alt="Gabriel-Andrade36 :: Top Langs" height="200" width="390" align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Gabriel-Andrade36&hide=prs,issues&count_private=true&show_icons=true&theme=highcontrast" alt="Gabriel-Andrade36 :: status" height="190" width="515" align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Andrade36&layout=compact&theme=highcontrast" alt="Gabriel-Andrade36 :: Top Langs" height="200" width="350" align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Gabriel-Andrade36&hide=prs,issues&count_private=true&show_icons=true&theme=highcontrast" alt="Gabriel-Andrade36 :: status" height="190" width="460" align="center">
  </div>
  
 
