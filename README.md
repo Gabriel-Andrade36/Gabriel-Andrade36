@@ -2,6 +2,8 @@
 
 <h2>My name is <a href="https://www.linkedin.com/in/gabriel-andrade-corrêa-b5463918a/" target="_blank" rel="external" style=text-decoration:none>Gabriel</a>, and I'm currently a student of analysis and systems development!</h2>
 
+<p> if you want to contact me, try it: <Strong><ins>gabrielndcorrea@gmail.com</ins> or <ins>gabrielndfacens@gmail.com</ins></Strong>
+
 
 <div style=display inline-block>
 
