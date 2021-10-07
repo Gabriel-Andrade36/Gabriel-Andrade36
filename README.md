@@ -13,7 +13,7 @@
 </div>
 <hr>
 
-- Working as an help-desk intern at <a href ="https://www.linkedin.com/company/well-internet" target="_blank" rel="external" style=text-decoration:none>Well Internet</a>
+- Working as a Fullstack developer intern at <a href ="https://www.linkedin.com/company/fitinstitutodetecnologia/" target="_blank" rel="external" style=text-decoration:none>FIT</a> from <a href  ="https://www.linkedin.com/company/flexintl/" target="_blank" rel="external" style=text-decoration:none> Flextronics </a>
 
 - At the moment I have some knowledge with and/or I'm studying:
   - <abbr title="Currently studying at 'Curso em vídeo' online course"> HTML/CSS </abrr>
