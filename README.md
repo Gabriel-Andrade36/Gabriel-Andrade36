@@ -15,27 +15,24 @@
 
 - Working as Fullstack developer intern at <a href ="https://www.linkedin.com/company/fitinstitutodetecnologia/" target="_blank" rel="external" style=text-decoration:none>FIT</a> from <a href  ="https://www.linkedin.com/company/flexintl/" target="_blank" rel="external" style=text-decoration:none> Flextronics </a>
 
-- At moment I'm developing some knowledge with:
-  - <abbr title="Currently studying at 'Curso em vídeo' online course"> HTML/CSS </abrr>
-  - <abrr title="Studying by myself, and soon I'll take a course about it"> TypeScript/JavaScript </abrr>
-  - <abrr title="Currently studying at 'Curso em vídeo' online course and at college">Java/POO</abbr>
-  - <abrr title="I did an introductory online course at 'Digital Inovvation One' and I keep  practicing and learning by myself">Git and Github</abbr>  😆
-  - <abrr title="I did a online course about it at Unieducar and I have contact with scrum and kanban at my job">Project management/agile methodology
- 
-  
   
  - Working(while I learn) with:
     - Node.js
     - Typescript
-    - Firestore
-    - Cloud Functions
+    - Firebase (Firestore, Cloud Functions)
     - Unit tests with Jest
-    - React.js
     - MQTT Protocol
-    
+    - React.js 
 
 
-Now I'm focusing on learn about web development!
+ - Some knowledge with:
+   - TypeScript/JavaScript
+   - Git and Github 😆
+   - Project management/agile methodology
+   - HTML/CSS
+   - Java/POO 
+  
+  
 <hr>
 
 <div style=display inline-block>
