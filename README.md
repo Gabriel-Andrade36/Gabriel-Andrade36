@@ -16,7 +16,7 @@
 - Working as Fullstack developer intern at <a href ="https://www.linkedin.com/company/fitinstitutodetecnologia/" target="_blank" rel="external" style=text-decoration:none>FIT</a> from <a href  ="https://www.linkedin.com/company/flexintl/" target="_blank" rel="external" style=text-decoration:none> Flextronics </a>
 
   
- - Working(while I learn) with:
+<!--  - Working(while I learn) with:
     - Node.js
     - Typescript
     - Firebase (Firestore, Cloud Functions)
@@ -30,7 +30,7 @@
    - Git and Github 😆
    - Project management/agile methodology
    - HTML/CSS
-   - Java/POO 
+   - Java/POO  -->
   
   
 <hr>
