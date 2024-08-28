@@ -1,6 +1,6 @@
-<h1>Hello visitor! 👀</h1>
+<h1>Hello! 👀</h1>
 
-<h2>My name is <a href="https://www.linkedin.com/in/gabriel-andrade-corrêa-b5463918a/" target="_blank" rel="external" style=text-decoration:none>Gabriel</a>, and I'm currently a web developer using Angular and Node.js!</h2>
+<h2>My name is <a href="https://www.linkedin.com/in/gabriel-andrade-corrêa-b5463918a/" target="_blank" rel="external" style=text-decoration:none>Gabriel</a>, and unfortunately there is not much to see here, most of my projects are private :/</h2>
 
 <!-- <p> if you want to contact me, try it: <Strong><ins>gabrielndcorrea@gmail.com</ins> or <ins>gabrielndfacens@gmail.com</ins></Strong> -->
 
@@ -39,8 +39,3 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Andrade36&layout=compact&theme=highcontrast" alt="Gabriel-Andrade36 :: Top Langs" height="200" width="350" align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Gabriel-Andrade36&hide=prs,issues&count_private=true&show_icons=true&theme=highcontrast" alt="Gabriel-Andrade36 :: status" height="190" width="460" align="center">
  </div>
- 
-
-
-<p align="left"><Strong>✨Earning some life xp✨</Strong></p>
-
