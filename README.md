@@ -13,7 +13,7 @@
 </div>
 <hr>
 
-- Working as Fullstack developer intern at <a href ="https://www.linkedin.com/company/fitinstitutodetecnologia/" target="_blank" rel="external" style=text-decoration:none>FIT</a> from <a href  ="https://www.linkedin.com/company/flexintl/" target="_blank" rel="external" style=text-decoration:none> Flextronics </a>
+- Working as Fullstack developer at <a href ="https://www.linkedin.com/company/fitinstitutodetecnologia/" target="_blank" rel="external" style=text-decoration:none>FIT</a> from <a href  ="https://www.linkedin.com/company/flexintl/" target="_blank" rel="external" style=text-decoration:none> Flextronics since 2020</a>
 
   
 <!--  - Working(while I learn) with:
